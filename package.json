@@ -1,0 +1,21 @@
+{
+  "name": "npm-splat",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "lite-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  },
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "numpy-parser": "^1.2.3",
+    "request": "^2.88.2"
+  }
+}
