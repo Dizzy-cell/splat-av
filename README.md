@@ -3,7 +3,8 @@ This is a WebGL implementation of a real-time renderer for Driveable Gaussian Sp
 
 You can try it on [web](https://dizzy.us.kg).
 
-https://github.com/Dizzy-cell/splat-av/assets/video.mp4
+
+Demo with driveable avatar by MediaPipe BlendShape.(./assets/video.mp4)
 
 
 ## acknowledgements
