@@ -4,7 +4,7 @@ This is a WebGL implementation of a real-time renderer for Driveable Gaussian Sp
 You can try it on [web](https://dizzy.us.kg).
 
 
-Demo with driveable avatar by MediaPipe BlendShape.[![demo]](./assets/video.gif)
+Demo with driveable avatar by MediaPipe BlendShape.![demo](./assets/video.gif)
 
 
 ## acknowledgements
