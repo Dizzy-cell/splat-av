@@ -1,5 +1,5 @@
-# Driveable Gaussian Splatting Avatar 
-This is a WebGL implementation of a real-time renderer for Driveable Gaussian Splatting Avatar.
+# Drivable Gaussian Splatting Avatar 
+This is a WebGL implementation of a real-time renderer for Drivable Gaussian Splatting Avatar.
 
 You can try it on [web](https://dizzy.us.kg).
 
