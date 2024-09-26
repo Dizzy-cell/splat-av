@@ -15,5 +15,19 @@ Demo with the driveable avatar by MediaPipe BlendShape.![demo](https://github.co
 1. Blur, caused by modeling and data.
 2. Driving the mouth area. caused by the occlusion.
 
+# Dataset Prepare
+Two types of videos, recording for 2 to 3 minutes.
+1. static camera and dynamic facial expressions.
+2. static facial expressions and dynamic camera.
+
+We choose the static camera and dynamic facial expressions to collect the facial data. 
+Inspired by the Persona with Apple, we list a series of facial expressions and movements.
+1. canonical experssion with rotating the neck clockwise.
+2. Speeching with some senctences.
+
+# Train
+
+# Test
+
 ## acknowledgements
 Thanks to Kevin Kwok for the original [code](https://github.com/antimatter15/splat) with 3D Gaussian Splatting.
