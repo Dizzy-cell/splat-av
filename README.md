@@ -6,7 +6,7 @@ Try with camera drivable with mediapipe blendshape [web](https//dizzy.us.kg/inde
 
 
 Demo with the driveable avatar by MediaPipe BlendShape.![demo](https://github.com/Dizzy-cell/splat-av/blob/main/assets/video.gif)
-Demo with the driveable avatar by MediaPipe BlendShape.![demo](https://github.com/Dizzy-cell/splat-av/blob/main/assets/blend.mov)
+Demo with the driveable avatar by MediaPipe BlendShape.![demo](https://github.com/Dizzy-cell/splat-av/blob/main/assets/blend.gif)
 
 # Description
 1. Create the drivable gaussian avatar by monocular videos.
