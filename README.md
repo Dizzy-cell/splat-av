@@ -1,4 +1,4 @@
-# Drivable Gaussian Splatting Avatar 
+# Drivable Gaussian Splatting Avatar with Monocular Videos
 This is a WebGL implementation of a real-time renderer for Drivable Gaussian Splatting Avatar.
 
 You can try it on [web](https://dizzy.us.kg).
@@ -31,10 +31,10 @@ Inspired by the Persona with Apple, we list a series of facial expressions and m
 
 # Test
 
-# Image Restoration with GFPGAN
+# Image Restoration with GFPGAN.
 
 The drawback of rendering with Gaussian splatting with the animator avatar is that it is difficult to model and recover the region of the mouth. 
-We discover the research of image restoration or super-resolution about face. We adopt the work of GFPGAN to restore the rendering face of gaussian splatting. 
+We discover the research of image restoration or super-resolution about face. We adopt the pretrained GFPGAN to restore the rendering face of gaussian splatting.
 In consideration of the work about the Qualcomm® AI Hub Models on real-time super-resolution,like real-esrgan, the inference time is considered feasible if it is migrated to mobile devices. 
 
 ## acknowledgements
