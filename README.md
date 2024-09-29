@@ -2,7 +2,7 @@
 This is a WebGL implementation of a real-time renderer for Drivable Gaussian Splatting Avatar.
 
 You can try it on [web](https://dizzy.us.kg).
-Try with camera drivable with mediapipe blendshape [web](https://dizzy.us.kg/index2.html).
+Try with a camera for mediapipe blendshape on [web](https://dizzy.us.kg/index2.html).
 
 
 Demo with the driveable avatar by MediaPipe BlendShape.![demo](https://github.com/Dizzy-cell/splat-av/blob/main/assets/video.gif)
@@ -30,6 +30,12 @@ Inspired by the Persona with Apple, we list a series of facial expressions and m
 # Train
 
 # Test
+
+# Image Restoration with GFPGAN
+
+The drawback of rendering with Gaussian splatting with the animator avatar is that it is difficult to model and recover the region of the mouth. 
+We discover the research of image restoration or super-resolution about face. We adopt the work of GFPGAN to restore the rendering face of gaussian splatting. 
+In consideration of the work about the Qualcomm® AI Hub Models on real-time super-resolution,like real-esrgan, the inference time is considered feasible if it is migrated to mobile devices. 
 
 ## acknowledgements
 Thanks to Kevin Kwok for the original [code](https://github.com/antimatter15/splat) with 3D Gaussian Splatting.

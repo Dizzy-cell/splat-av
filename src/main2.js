@@ -927,7 +927,7 @@ async function main() {
     // let splatData = new Uint8Array(req.headers.get("content-length"));
 
 
-    const req = await fetch('40000_xyz.splat');
+    const req = await fetch('80000_xyz.splat');
     if (!req.ok) {
         throw new Error('Failed to load .splat file: ' + response.status);
     }
