@@ -37,5 +37,8 @@ The drawback of rendering with Gaussian splatting with the animator avatar is th
 We discover the research of image restoration or super-resolution about face. We adopt the pretrained GFPGAN to restore the rendering face of gaussian splatting.
 In consideration of the work about the Qualcomm® AI Hub Models on real-time super-resolution,like real-esrgan, the inference time is considered feasible if it is migrated to mobile devices. 
 
+Super-resolution about face.
+![demo](https://github.com/Dizzy-cell/splat-av/blob/main/assets/super.gif)
+
 ## acknowledgements
 Thanks to Kevin Kwok for the original [code](https://github.com/antimatter15/splat) with 3D Gaussian Splatting.
