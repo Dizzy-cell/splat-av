@@ -1,0 +1,4 @@
+    state_dict = torch.utils.model_zoo.load_url(
+        "http://www.robots.ox.ac.uk/~albanie/models/pytorch-mcn/" "vgg_face_dag.pth", map_location=torch.device("cpu"), progress=True
+    )
+    
