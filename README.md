@@ -1,8 +1,8 @@
 # Drivable Gaussian Splatting Avatar with Monocular Videos
 This is a WebGL implementation of a real-time renderer for Drivable Gaussian Splatting Avatar.
 
-You can try it on [web](https://dizzy.us.kg).
-Try with a camera for mediapipe blendshape on [web](https://dizzy.us.kg/index2.html).
+You can try it on [web](https://dizzy-cell.github.io/splat-av/src/index.html).
+Try with a camera for mediapipe blendshape on [web](https://dizzy-cell.github.io/splat-av/src/index2.html).
 
 
 Demo with the driveable avatar by MediaPipe BlendShape.![demo](https://github.com/Dizzy-cell/splat-av/blob/main/assets/video.gif)
