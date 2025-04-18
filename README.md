@@ -30,7 +30,7 @@ Inspired by the Persona with Apple, we list a series of facial expressions and m
 # Train
 
 # Test
-
+npm start
 # Image Restoration with GFPGAN.
 
 The drawback of rendering with Gaussian splatting with the animator avatar is that it is difficult to model and recover the region of the mouth. 
